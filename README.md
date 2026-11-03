@@ -1,4 +1,4 @@
-![Nuur Macalin Isaaq Caddow — Backend Developer](banner.svg)
+![Nuur Macalin Isaaq Caddow — Backend Developer](backend_developer_portfolio_banner.png)
 
 # Hello, I'm Nuur.
 
