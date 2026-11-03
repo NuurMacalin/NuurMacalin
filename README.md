@@ -1,33 +1,32 @@
-# 👋 Hi, I'm Nuur Macalin Isaaq Caddow
+![Nuur Macalin Isaaq Caddow — Backend Developer](banner.svg)
 
-### 🚀 Backend Developer | Generative AI Enthusiast | Flutter Developer
+# Hello, I'm Nuur.
 
-I'm a software developer from Somalia focused on building practical backend systems, APIs, and applications while learning Generative AI.
+I'm a software developer based in Somalia. I focus on building reliable backend applications, clean APIs, and practical software. I enjoy understanding how systems work, from database design to the details of application logic.
 
-## 🛠️ Tech Stack
+### Technologies
 
-- **Backend:** Python, FastAPI, PHP, CodeIgniter 4 (CI4), Django (basics)
-- **Mobile:** Flutter, Dart
-- **Databases:** MySQL, SQLite, SQLModel
-- **AI & Learning:** Generative AI, LLMs, Hugging Face, RAG and AI agents
-- **Tools:** Git, GitHub, REST APIs, Pydantic
+**Backend:** Python, FastAPI, PHP, CodeIgniter 4  
+**Also working with:** Django / Django REST Framework (basics), Flutter & Dart  
+**Data:** MySQL, SQLite, SQLModel, SQLAlchemy  
+**Development tools:** Git, GitHub, Postman
 
-## 💻 What I'm Building
+### Current interests
 
-- **FastAPI projects:** REST APIs with CRUD operations, validation, filtering, pagination, and database integration
-- **Business systems:** Practical workflows for inventory, sales, and operational management
-- **Healthcare software:** Exploring modules for patient management, pharmacy, and clinical workflows
-- **Flutter apps:** Mobile app development with Dart
+- Building well-structured REST APIs with validation, authentication, and database integration
+- Improving software architecture, testing, and production-ready backend practices
+- Developing mobile applications with Flutter
+- Exploring LLMs, retrieval-augmented generation, and AI agents
 
-## 📚 Currently Learning
+### Selected work
 
-Deepening my FastAPI and database design skills, exploring Generative AI, and strengthening full-stack software engineering fundamentals.
+**[FastAPI practice and projects](https://github.com/NuurMacalin/FastApi)**  
+A collection of Python and FastAPI exercises and implementations, including CRUD APIs and data-validation patterns.
 
-## 🔗 Find My Work
+### Get in touch
 
-- [GitHub Profile](https://github.com/NuurMacalin)
-- [FastAPI Repository](https://github.com/NuurMacalin/FastApi)
+[GitHub](https://github.com/NuurMacalin) · Based in Somalia
 
 ---
 
-*Building, learning, and improving one project at a time.*
+*Learning continuously. Building with purpose.*
